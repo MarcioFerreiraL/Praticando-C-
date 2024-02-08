@@ -1,5 +1,21 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("----------------");
+Console.WriteLine("Bem vindo!");
+Console.WriteLine("----------------");
 Console.WriteLine("Digite o seu nome: ");
 string nome = Console.ReadLine();
-Console.WriteLine("Bem vindo, {0}", nome);
+Console.WriteLine("----------------");
+Console.WriteLine("Digite o ano que voce nasceu: ");
+int idade = 2024 - int.Parse(Console.ReadLine());
+Console.WriteLine("----------------");
+Console.WriteLine("Digite seu peso: ");
+double peso = double.Parse(Console.ReadLine());
+Console.WriteLine("----------------");
+Console.WriteLine("Digite sua altura: ");
+double altura = double.Parse(Console.ReadLine());
+Console.WriteLine("----------------");
+double imc = peso / (altura * altura);
+Console.WriteLine("Nome: " + nome);
+Console.WriteLine("Idade: " + idade);
+Console.WriteLine("Peso: " + peso);
+Console.WriteLine("ALtura: " + altura);
+Console.WriteLine("IMC: " + imc);

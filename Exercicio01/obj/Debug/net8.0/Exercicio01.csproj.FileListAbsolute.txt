@@ -12,3 +12,4 @@ C:\Users\skrma\source\repos\Praticando C#\Exercicio01\obj\Debug\net8.0\refint\Ex
 C:\Users\skrma\source\repos\Praticando C#\Exercicio01\obj\Debug\net8.0\Exercicio01.pdb
 C:\Users\skrma\source\repos\Praticando C#\Exercicio01\obj\Debug\net8.0\Exercicio01.genruntimeconfig.cache
 C:\Users\skrma\source\repos\Praticando C#\Exercicio01\obj\Debug\net8.0\ref\Exercicio01.dll
+C:\Users\skrma\source\repos\Praticando C#\Exercicio01\obj\Debug\net8.0\Exercicio01.sourcelink.json
